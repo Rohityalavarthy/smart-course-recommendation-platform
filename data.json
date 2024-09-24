@@ -1,0 +1,15 @@
+{
+  "1-1": [
+    {
+      "subject": "ARTIFICIAL INTELLIGENCE",
+      "courseGrade": 10
+    },
+    {
+      "subject": "COMPUTER PROGRAMMING",
+      "courseGrade": 8
+    }
+  ],
+  "beDegree": "B.E Computer Science",
+  "mscDegree": "None",
+  "preferredElective": "MACHINE LEARNING"
+}
